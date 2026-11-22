@@ -17,9 +17,9 @@
 
 ## What we do
 
-- 🖥️**Custom software** — websites, online stores, iOS/Android apps, internal systems, integrations and AI automations.
-- 📷**Content** — product and space photography, video and aerial shots, social media, campaigns and ads.
-- 🎨**Brand** — logo, visual identity, brand guidelines, stationery and packaging.
+- **Custom software** — websites, online stores, iOS/Android apps, internal systems, integrations and AI automations.
+- **Content** — product and space photography, video and aerial shots, social media, campaigns and ads.
+- **Brand** — logo, visual identity, brand guidelines, stationery and packaging.
 
 ## How we build
 
