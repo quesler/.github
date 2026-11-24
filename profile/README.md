@@ -1,7 +1,4 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.svg">
-  <img alt="Quesler" src="./assets/banner-light.svg" width="100%">
-</picture>
+<img alt="Quesler — digital studio in Los Cabos. We take your business online: software, photo and video, brand." src="./assets/banner.svg" width="100%">
 
 <p align="center">
   <strong>Digital studio in Los Cabos, B.C.S., Mexico.</strong><br>
@@ -21,16 +18,20 @@
 - **Content** — product and space photography, video and aerial shots, social media, campaigns and ads.
 - **Brand** — logo, visual identity, brand guidelines, stationery and packaging.
 
-## How we build
+## How we work
 
-We like simple, maintainable stacks. Our own website is built with Next.js (App Router), TypeScript, Tailwind CSS and shadcn/ui, with bilingual (es/en) content.
+One team from the first call to launch, and beyond.
 
-<p>
-  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white">
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
-  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white">
-  <img alt="shadcn/ui" src="https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square&logo=shadcnui&logoColor=white">
-</p>
+| Step | What happens | You get |
+| --- | --- | --- |
+| **1. Discovery** | A 30-minute call to understand your business, what you need and what you already have. | A diagnosis of what you need |
+| **2. Proposal** | Scope, deliverables, timeline and quote. We start once you agree. | Proposal and quote |
+| **3. Hands on** | We design, build, shoot or launch campaigns, sharing progress so you can weigh in along the way. | Regular progress updates |
+| **4. Delivery and support** | We deliver and publish, train you and stay close to support you. | Launch and support |
+
+We pick the tools for each project, not the other way around.
+
+<a href="https://cal.com/quesler-studio/discovery-call"><img alt="Book a discovery call" src="https://img.shields.io/badge/Book_a_discovery_call-3F4FF8?style=for-the-badge&logo=googlecalendar&logoColor=white"></a>
 
 ## Get in touch
 
